@@ -26,10 +26,10 @@ I'm a passionate Machine Learning Engineer with over 4 years of experience in cr
 ---
 
 ### 🔥 Highlighted Projects
-- **[NLU for Alexa and Siri](https://github.com/lidiapierre/NLU-projects):** Designed and developed conversational AI models for voice assistants.
-- **[Computer Vision - Object Detection](https://github.com/lidiapierre/CV-object-detection):** Implemented object detection using YOLO and Detectron2 for real-time applications.
-- **[RAG Pipelines](https://github.com/lidiapierre/RAG-pipelines):** Retrieval-Augmented Generation with GPT-4 and custom-built open-source LLMs.
-- **[LangChain for Business Intelligence](https://github.com/lidiapierre/langchain-BI):** Automated BI insights with LangChain, using LLMs to analyze data.
+- **[NLU for Alexa and Siri]:** Designed and developed conversational AI models for voice assistants.
+- **[Computer Vision - Object Detection]:** Implemented object detection using YOLO and Detectron2 for real-time applications.
+- **[RAG Pipelines]:** Retrieval-Augmented Generation with GPT-4 and custom-built open-source LLMs.
+- **[LangChain for Business Intelligence]:** Automated BI insights with LangChain, using LLMs to analyze data.
 
 Explore more of my projects on [GitHub](https://github.com/lidiapierre).
 
